@@ -1,0 +1,32 @@
+<table class="table">
+    <thead>
+      <tr>
+        <th scope="col">% Participation</th>
+        <th scope="col">Name</th>
+        <th scope="col">Lastname</th>
+        <th scope="col">BirthDate</th>
+        <th scope="col">Curp</th>
+        <th scope="col">SSN</th>
+        <th scope="col">Phone</th>
+        <th scope="col">Nationality</th>
+        <th scope="col"></th>
+      </tr>
+    </thead>
+    <tbody class="table-group-divider" *ngIf="beneficiaries && beneficiaries.length > 0">
+      <tr *ngFor="let beneficiary of beneficiaries">
+        <th scope="row">{{beneficiary.participationPercentage}}</th>
+        <td>{{beneficiary.name}}</td>
+        <td>{{beneficiary.lastName}}</td>
+        <td>{{beneficiary.birthDate}}</td>
+        <td>{{beneficiary.curp}}</td>
+        <td>{{beneficiary.ssn}}</td>
+        <td>{{beneficiary.phone}}</td>
+        <td>{{beneficiary.nationalityName}}</td>
+      </tr>
+    </tbody>
+    <tbody  *ngIf="!beneficiaries || beneficiaries.length === 0">
+        <tr class="Text-Center">
+            <td colspan="10">beneficiaries not found.</td>
+        </tr>
+    </tbody>
+  </table>

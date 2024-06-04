@@ -1,0 +1,433 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Kevin Salomon\\Source\\repos\\MaxiTechnicalTestKS\\TechnicalTestKSApp_BE\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DB192803-FFE3-4595-9B0F-84B594BCB0CF}|TechnicalTestKSApp_BE_BL\\TechnicalTestKSApp_BE_BL.csproj|c:\\users\\kevin salomon\\source\\repos\\maxitechnicaltestks\\technicaltestksapp_be\\technicaltestksapp_be_bl\\logics\\beneficiarybl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB192803-FFE3-4595-9B0F-84B594BCB0CF}|TechnicalTestKSApp_BE_BL\\TechnicalTestKSApp_BE_BL.csproj|solutionrelative:technicaltestksapp_be_bl\\logics\\beneficiarybl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EEC269F-D1E0-4459-8824-918519B9C465}|TechnicalTestKSApp_BE\\TechnicalTestKSApp_BE.csproj|c:\\users\\kevin salomon\\source\\repos\\maxitechnicaltestks\\technicaltestksapp_be\\technicaltestksapp_be\\controllers\\beneficiarycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EEC269F-D1E0-4459-8824-918519B9C465}|TechnicalTestKSApp_BE\\TechnicalTestKSApp_BE.csproj|solutionrelative:technicaltestksapp_be\\controllers\\beneficiarycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EEC269F-D1E0-4459-8824-918519B9C465}|TechnicalTestKSApp_BE\\TechnicalTestKSApp_BE.csproj|c:\\users\\kevin salomon\\source\\repos\\maxitechnicaltestks\\technicaltestksapp_be\\technicaltestksapp_be\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EEC269F-D1E0-4459-8824-918519B9C465}|TechnicalTestKSApp_BE\\TechnicalTestKSApp_BE.csproj|solutionrelative:technicaltestksapp_be\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB192803-FFE3-4595-9B0F-84B594BCB0CF}|TechnicalTestKSApp_BE_BL\\TechnicalTestKSApp_BE_BL.csproj|c:\\users\\kevin salomon\\source\\repos\\maxitechnicaltestks\\technicaltestksapp_be\\technicaltestksapp_be_bl\\models\\personbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB192803-FFE3-4595-9B0F-84B594BCB0CF}|TechnicalTestKSApp_BE_BL\\TechnicalTestKSApp_BE_BL.csproj|solutionrelative:technicaltestksapp_be_bl\\models\\personbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB192803-FFE3-4595-9B0F-84B594BCB0CF}|TechnicalTestKSApp_BE_BL\\TechnicalTestKSApp_BE_BL.csproj|c:\\users\\kevin salomon\\source\\repos\\maxitechnicaltestks\\technicaltestksapp_be\\technicaltestksapp_be_bl\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB192803-FFE3-4595-9B0F-84B594BCB0CF}|TechnicalTestKSApp_BE_BL\\TechnicalTestKSApp_BE_BL.csproj|solutionrelative:technicaltestksapp_be_bl\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EEC269F-D1E0-4459-8824-918519B9C465}|TechnicalTestKSApp_BE\\TechnicalTestKSApp_BE.csproj|c:\\users\\kevin salomon\\source\\repos\\maxitechnicaltestks\\technicaltestksapp_be\\technicaltestksapp_be\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EEC269F-D1E0-4459-8824-918519B9C465}|TechnicalTestKSApp_BE\\TechnicalTestKSApp_BE.csproj|solutionrelative:technicaltestksapp_be\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB192803-FFE3-4595-9B0F-84B594BCB0CF}|TechnicalTestKSApp_BE_BL\\TechnicalTestKSApp_BE_BL.csproj|c:\\users\\kevin salomon\\source\\repos\\maxitechnicaltestks\\technicaltestksapp_be\\technicaltestksapp_be_bl\\repositories\\generalinformationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB192803-FFE3-4595-9B0F-84B594BCB0CF}|TechnicalTestKSApp_BE_BL\\TechnicalTestKSApp_BE_BL.csproj|solutionrelative:technicaltestksapp_be_bl\\repositories\\generalinformationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB192803-FFE3-4595-9B0F-84B594BCB0CF}|TechnicalTestKSApp_BE_BL\\TechnicalTestKSApp_BE_BL.csproj|c:\\users\\kevin salomon\\source\\repos\\maxitechnicaltestks\\technicaltestksapp_be\\technicaltestksapp_be_bl\\repositories\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB192803-FFE3-4595-9B0F-84B594BCB0CF}|TechnicalTestKSApp_BE_BL\\TechnicalTestKSApp_BE_BL.csproj|solutionrelative:technicaltestksapp_be_bl\\repositories\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB192803-FFE3-4595-9B0F-84B594BCB0CF}|TechnicalTestKSApp_BE_BL\\TechnicalTestKSApp_BE_BL.csproj|c:\\users\\kevin salomon\\source\\repos\\maxitechnicaltestks\\technicaltestksapp_be\\technicaltestksapp_be_bl\\repositories\\beneficiaryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB192803-FFE3-4595-9B0F-84B594BCB0CF}|TechnicalTestKSApp_BE_BL\\TechnicalTestKSApp_BE_BL.csproj|solutionrelative:technicaltestksapp_be_bl\\repositories\\beneficiaryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB192803-FFE3-4595-9B0F-84B594BCB0CF}|TechnicalTestKSApp_BE_BL\\TechnicalTestKSApp_BE_BL.csproj|c:\\users\\kevin salomon\\source\\repos\\maxitechnicaltestks\\technicaltestksapp_be\\technicaltestksapp_be_bl\\models\\nationality.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB192803-FFE3-4595-9B0F-84B594BCB0CF}|TechnicalTestKSApp_BE_BL\\TechnicalTestKSApp_BE_BL.csproj|solutionrelative:technicaltestksapp_be_bl\\models\\nationality.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB192803-FFE3-4595-9B0F-84B594BCB0CF}|TechnicalTestKSApp_BE_BL\\TechnicalTestKSApp_BE_BL.csproj|c:\\users\\kevin salomon\\source\\repos\\maxitechnicaltestks\\technicaltestksapp_be\\technicaltestksapp_be_bl\\models\\beneficiary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB192803-FFE3-4595-9B0F-84B594BCB0CF}|TechnicalTestKSApp_BE_BL\\TechnicalTestKSApp_BE_BL.csproj|solutionrelative:technicaltestksapp_be_bl\\models\\beneficiary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB192803-FFE3-4595-9B0F-84B594BCB0CF}|TechnicalTestKSApp_BE_BL\\TechnicalTestKSApp_BE_BL.csproj|c:\\users\\kevin salomon\\source\\repos\\maxitechnicaltestks\\technicaltestksapp_be\\technicaltestksapp_be_bl\\interfaces\\logics\\ibeneficiarybl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB192803-FFE3-4595-9B0F-84B594BCB0CF}|TechnicalTestKSApp_BE_BL\\TechnicalTestKSApp_BE_BL.csproj|solutionrelative:technicaltestksapp_be_bl\\interfaces\\logics\\ibeneficiarybl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB192803-FFE3-4595-9B0F-84B594BCB0CF}|TechnicalTestKSApp_BE_BL\\TechnicalTestKSApp_BE_BL.csproj|c:\\users\\kevin salomon\\source\\repos\\maxitechnicaltestks\\technicaltestksapp_be\\technicaltestksapp_be_bl\\interfaces\\ibeneficiary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB192803-FFE3-4595-9B0F-84B594BCB0CF}|TechnicalTestKSApp_BE_BL\\TechnicalTestKSApp_BE_BL.csproj|solutionrelative:technicaltestksapp_be_bl\\interfaces\\ibeneficiary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB192803-FFE3-4595-9B0F-84B594BCB0CF}|TechnicalTestKSApp_BE_BL\\TechnicalTestKSApp_BE_BL.csproj|c:\\users\\kevin salomon\\source\\repos\\maxitechnicaltestks\\technicaltestksapp_be\\technicaltestksapp_be_bl\\logics\\generalinformationbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB192803-FFE3-4595-9B0F-84B594BCB0CF}|TechnicalTestKSApp_BE_BL\\TechnicalTestKSApp_BE_BL.csproj|solutionrelative:technicaltestksapp_be_bl\\logics\\generalinformationbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB192803-FFE3-4595-9B0F-84B594BCB0CF}|TechnicalTestKSApp_BE_BL\\TechnicalTestKSApp_BE_BL.csproj|c:\\users\\kevin salomon\\source\\repos\\maxitechnicaltestks\\technicaltestksapp_be\\technicaltestksapp_be_bl\\interfaces\\idateselect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB192803-FFE3-4595-9B0F-84B594BCB0CF}|TechnicalTestKSApp_BE_BL\\TechnicalTestKSApp_BE_BL.csproj|solutionrelative:technicaltestksapp_be_bl\\interfaces\\idateselect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB192803-FFE3-4595-9B0F-84B594BCB0CF}|TechnicalTestKSApp_BE_BL\\TechnicalTestKSApp_BE_BL.csproj|c:\\users\\kevin salomon\\source\\repos\\maxitechnicaltestks\\technicaltestksapp_be\\technicaltestksapp_be_bl\\models\\dateselect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB192803-FFE3-4595-9B0F-84B594BCB0CF}|TechnicalTestKSApp_BE_BL\\TechnicalTestKSApp_BE_BL.csproj|solutionrelative:technicaltestksapp_be_bl\\models\\dateselect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB192803-FFE3-4595-9B0F-84B594BCB0CF}|TechnicalTestKSApp_BE_BL\\TechnicalTestKSApp_BE_BL.csproj|c:\\users\\kevin salomon\\source\\repos\\maxitechnicaltestks\\technicaltestksapp_be\\technicaltestksapp_be_bl\\interfaces\\logics\\igeneralinformationbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB192803-FFE3-4595-9B0F-84B594BCB0CF}|TechnicalTestKSApp_BE_BL\\TechnicalTestKSApp_BE_BL.csproj|solutionrelative:technicaltestksapp_be_bl\\interfaces\\logics\\igeneralinformationbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EEC269F-D1E0-4459-8824-918519B9C465}|TechnicalTestKSApp_BE\\TechnicalTestKSApp_BE.csproj|c:\\users\\kevin salomon\\source\\repos\\maxitechnicaltestks\\technicaltestksapp_be\\technicaltestksapp_be\\controllers\\generalinformationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EEC269F-D1E0-4459-8824-918519B9C465}|TechnicalTestKSApp_BE\\TechnicalTestKSApp_BE.csproj|solutionrelative:technicaltestksapp_be\\controllers\\generalinformationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB192803-FFE3-4595-9B0F-84B594BCB0CF}|TechnicalTestKSApp_BE_BL\\TechnicalTestKSApp_BE_BL.csproj|c:\\users\\kevin salomon\\source\\repos\\maxitechnicaltestks\\technicaltestksapp_be\\technicaltestksapp_be_bl\\logics\\employeebl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB192803-FFE3-4595-9B0F-84B594BCB0CF}|TechnicalTestKSApp_BE_BL\\TechnicalTestKSApp_BE_BL.csproj|solutionrelative:technicaltestksapp_be_bl\\logics\\employeebl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB192803-FFE3-4595-9B0F-84B594BCB0CF}|TechnicalTestKSApp_BE_BL\\TechnicalTestKSApp_BE_BL.csproj|c:\\users\\kevin salomon\\source\\repos\\maxitechnicaltestks\\technicaltestksapp_be\\technicaltestksapp_be_bl\\interfaces\\repositories\\igeneralinformationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB192803-FFE3-4595-9B0F-84B594BCB0CF}|TechnicalTestKSApp_BE_BL\\TechnicalTestKSApp_BE_BL.csproj|solutionrelative:technicaltestksapp_be_bl\\interfaces\\repositories\\igeneralinformationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB192803-FFE3-4595-9B0F-84B594BCB0CF}|TechnicalTestKSApp_BE_BL\\TechnicalTestKSApp_BE_BL.csproj|c:\\users\\kevin salomon\\source\\repos\\maxitechnicaltestks\\technicaltestksapp_be\\technicaltestksapp_be_bl\\interfaces\\repositories\\ibeneficiaryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB192803-FFE3-4595-9B0F-84B594BCB0CF}|TechnicalTestKSApp_BE_BL\\TechnicalTestKSApp_BE_BL.csproj|solutionrelative:technicaltestksapp_be_bl\\interfaces\\repositories\\ibeneficiaryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BBAECAB-90B8-4BE2-8489-C554D949D740}|TechnicalTestKSApp_BE_DA\\TechnicalTestKSApp_BE_DA.csproj|c:\\users\\kevin salomon\\source\\repos\\maxitechnicaltestks\\technicaltestksapp_be\\technicaltestksapp_be_da\\sqlcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BBAECAB-90B8-4BE2-8489-C554D949D740}|TechnicalTestKSApp_BE_DA\\TechnicalTestKSApp_BE_DA.csproj|solutionrelative:technicaltestksapp_be_da\\sqlcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BBAECAB-90B8-4BE2-8489-C554D949D740}|TechnicalTestKSApp_BE_DA\\TechnicalTestKSApp_BE_DA.csproj|c:\\users\\kevin salomon\\source\\repos\\maxitechnicaltestks\\technicaltestksapp_be\\technicaltestksapp_be_da\\models\\spresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BBAECAB-90B8-4BE2-8489-C554D949D740}|TechnicalTestKSApp_BE_DA\\TechnicalTestKSApp_BE_DA.csproj|solutionrelative:technicaltestksapp_be_da\\models\\spresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB192803-FFE3-4595-9B0F-84B594BCB0CF}|TechnicalTestKSApp_BE_BL\\TechnicalTestKSApp_BE_BL.csproj|c:\\users\\kevin salomon\\source\\repos\\maxitechnicaltestks\\technicaltestksapp_be\\technicaltestksapp_be_bl\\interfaces\\iperson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB192803-FFE3-4595-9B0F-84B594BCB0CF}|TechnicalTestKSApp_BE_BL\\TechnicalTestKSApp_BE_BL.csproj|solutionrelative:technicaltestksapp_be_bl\\interfaces\\iperson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EEC269F-D1E0-4459-8824-918519B9C465}|TechnicalTestKSApp_BE\\TechnicalTestKSApp_BE.csproj|c:\\users\\kevin salomon\\source\\repos\\maxitechnicaltestks\\technicaltestksapp_be\\technicaltestksapp_be\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9EEC269F-D1E0-4459-8824-918519B9C465}|TechnicalTestKSApp_BE\\TechnicalTestKSApp_BE.csproj|solutionrelative:technicaltestksapp_be\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "C:\\Users\\Kevin Salomon\\Source\\repos\\MaxiTechnicalTestKS\\TechnicalTestKSApp_BE\\TechnicalTestKSApp_BE\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "TechnicalTestKSApp_BE\\Controllers\\EmployeeController.cs",
+              "ToolTip": "C:\\Users\\Kevin Salomon\\Source\\repos\\MaxiTechnicalTestKS\\TechnicalTestKSApp_BE\\TechnicalTestKSApp_BE\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "TechnicalTestKSApp_BE\\Controllers\\EmployeeController.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABQAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T03:03:41.484Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Kevin Salomon\\Source\\repos\\MaxiTechnicalTestKS\\TechnicalTestKSApp_BE\\TechnicalTestKSApp_BE\\Program.cs",
+              "RelativeDocumentMoniker": "TechnicalTestKSApp_BE\\Program.cs",
+              "ToolTip": "C:\\Users\\Kevin Salomon\\Source\\repos\\MaxiTechnicalTestKS\\TechnicalTestKSApp_BE\\TechnicalTestKSApp_BE\\Program.cs",
+              "RelativeToolTip": "TechnicalTestKSApp_BE\\Program.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAIwBEAAACwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T21:16:33.616Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BeneficiaryController.cs",
+              "DocumentMoniker": "C:\\Users\\Kevin Salomon\\Source\\repos\\MaxiTechnicalTestKS\\TechnicalTestKSApp_BE\\TechnicalTestKSApp_BE\\Controllers\\BeneficiaryController.cs",
+              "RelativeDocumentMoniker": "TechnicalTestKSApp_BE\\Controllers\\BeneficiaryController.cs",
+              "ToolTip": "C:\\Users\\Kevin Salomon\\Source\\repos\\MaxiTechnicalTestKS\\TechnicalTestKSApp_BE\\TechnicalTestKSApp_BE\\Controllers\\BeneficiaryController.cs",
+              "RelativeToolTip": "TechnicalTestKSApp_BE\\Controllers\\BeneficiaryController.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAvwBQAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T04:39:09.555Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BeneficiaryBL.cs",
+              "DocumentMoniker": "C:\\Users\\Kevin Salomon\\Source\\repos\\MaxiTechnicalTestKS\\TechnicalTestKSApp_BE\\TechnicalTestKSApp_BE_BL\\Logics\\BeneficiaryBL.cs",
+              "RelativeDocumentMoniker": "TechnicalTestKSApp_BE_BL\\Logics\\BeneficiaryBL.cs",
+              "ToolTip": "C:\\Users\\Kevin Salomon\\Source\\repos\\MaxiTechnicalTestKS\\TechnicalTestKSApp_BE\\TechnicalTestKSApp_BE_BL\\Logics\\BeneficiaryBL.cs",
+              "RelativeToolTip": "TechnicalTestKSApp_BE_BL\\Logics\\BeneficiaryBL.cs",
+              "ViewState": "AQIAADAAAAAAAAAAAAAiwDYAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T20:39:04.443Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\Kevin Salomon\\Source\\repos\\MaxiTechnicalTestKS\\TechnicalTestKSApp_BE\\TechnicalTestKSApp_BE_BL\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "TechnicalTestKSApp_BE_BL\\Models\\Employee.cs",
+              "ToolTip": "C:\\Users\\Kevin Salomon\\Source\\repos\\MaxiTechnicalTestKS\\TechnicalTestKSApp_BE\\TechnicalTestKSApp_BE_BL\\Models\\Employee.cs",
+              "RelativeToolTip": "TechnicalTestKSApp_BE_BL\\Models\\Employee.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAawAkAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T22:09:20.886Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PersonBase.cs",
+              "DocumentMoniker": "C:\\Users\\Kevin Salomon\\Source\\repos\\MaxiTechnicalTestKS\\TechnicalTestKSApp_BE\\TechnicalTestKSApp_BE_BL\\Models\\PersonBase.cs",
+              "RelativeDocumentMoniker": "TechnicalTestKSApp_BE_BL\\Models\\PersonBase.cs",
+              "ToolTip": "C:\\Users\\Kevin Salomon\\Source\\repos\\MaxiTechnicalTestKS\\TechnicalTestKSApp_BE\\TechnicalTestKSApp_BE_BL\\Models\\PersonBase.cs",
+              "RelativeToolTip": "TechnicalTestKSApp_BE_BL\\Models\\PersonBase.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAD4vx0AAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T22:09:40.098Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EmployeeRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Kevin Salomon\\Source\\repos\\MaxiTechnicalTestKS\\TechnicalTestKSApp_BE\\TechnicalTestKSApp_BE_BL\\Repositories\\EmployeeRepository.cs",
+              "RelativeDocumentMoniker": "TechnicalTestKSApp_BE_BL\\Repositories\\EmployeeRepository.cs",
+              "ToolTip": "C:\\Users\\Kevin Salomon\\Source\\repos\\MaxiTechnicalTestKS\\TechnicalTestKSApp_BE\\TechnicalTestKSApp_BE_BL\\Repositories\\EmployeeRepository.cs",
+              "RelativeToolTip": "TechnicalTestKSApp_BE_BL\\Repositories\\EmployeeRepository.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAD4AAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T21:54:20.429Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IBeneficiaryBL.cs",
+              "DocumentMoniker": "C:\\Users\\Kevin Salomon\\Source\\repos\\MaxiTechnicalTestKS\\TechnicalTestKSApp_BE\\TechnicalTestKSApp_BE_BL\\Interfaces\\Logics\\IBeneficiaryBL.cs",
+              "RelativeDocumentMoniker": "TechnicalTestKSApp_BE_BL\\Interfaces\\Logics\\IBeneficiaryBL.cs",
+              "ToolTip": "C:\\Users\\Kevin Salomon\\Source\\repos\\MaxiTechnicalTestKS\\TechnicalTestKSApp_BE\\TechnicalTestKSApp_BE_BL\\Interfaces\\Logics\\IBeneficiaryBL.cs",
+              "RelativeToolTip": "TechnicalTestKSApp_BE_BL\\Interfaces\\Logics\\IBeneficiaryBL.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwBEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T04:41:59.619Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IBeneficiary.cs",
+              "DocumentMoniker": "C:\\Users\\Kevin Salomon\\Source\\repos\\MaxiTechnicalTestKS\\TechnicalTestKSApp_BE\\TechnicalTestKSApp_BE_BL\\Interfaces\\IBeneficiary.cs",
+              "RelativeDocumentMoniker": "TechnicalTestKSApp_BE_BL\\Interfaces\\IBeneficiary.cs",
+              "ToolTip": "C:\\Users\\Kevin Salomon\\Source\\repos\\MaxiTechnicalTestKS\\TechnicalTestKSApp_BE\\TechnicalTestKSApp_BE_BL\\Interfaces\\IBeneficiary.cs",
+              "RelativeToolTip": "TechnicalTestKSApp_BE_BL\\Interfaces\\IBeneficiary.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAsAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T06:40:22.237Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IDateSelect.cs",
+              "DocumentMoniker": "C:\\Users\\Kevin Salomon\\Source\\repos\\MaxiTechnicalTestKS\\TechnicalTestKSApp_BE\\TechnicalTestKSApp_BE_BL\\Interfaces\\IDateSelect.cs",
+              "RelativeDocumentMoniker": "TechnicalTestKSApp_BE_BL\\Interfaces\\IDateSelect.cs",
+              "ToolTip": "C:\\Users\\Kevin Salomon\\Source\\repos\\MaxiTechnicalTestKS\\TechnicalTestKSApp_BE\\TechnicalTestKSApp_BE_BL\\Interfaces\\IDateSelect.cs",
+              "RelativeToolTip": "TechnicalTestKSApp_BE_BL\\Interfaces\\IDateSelect.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAwAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T02:48:29.815Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "BeneficiaryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Kevin Salomon\\Source\\repos\\MaxiTechnicalTestKS\\TechnicalTestKSApp_BE\\TechnicalTestKSApp_BE_BL\\Repositories\\BeneficiaryRepository.cs",
+              "RelativeDocumentMoniker": "TechnicalTestKSApp_BE_BL\\Repositories\\BeneficiaryRepository.cs",
+              "ToolTip": "C:\\Users\\Kevin Salomon\\Source\\repos\\MaxiTechnicalTestKS\\TechnicalTestKSApp_BE\\TechnicalTestKSApp_BE_BL\\Repositories\\BeneficiaryRepository.cs",
+              "RelativeToolTip": "TechnicalTestKSApp_BE_BL\\Repositories\\BeneficiaryRepository.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAA8AAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T23:43:49.462Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "GeneralInformationRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Kevin Salomon\\Source\\repos\\MaxiTechnicalTestKS\\TechnicalTestKSApp_BE\\TechnicalTestKSApp_BE_BL\\Repositories\\GeneralInformationRepository.cs",
+              "RelativeDocumentMoniker": "TechnicalTestKSApp_BE_BL\\Repositories\\GeneralInformationRepository.cs",
+              "ToolTip": "C:\\Users\\Kevin Salomon\\Source\\repos\\MaxiTechnicalTestKS\\TechnicalTestKSApp_BE\\TechnicalTestKSApp_BE_BL\\Repositories\\GeneralInformationRepository.cs",
+              "RelativeToolTip": "TechnicalTestKSApp_BE_BL\\Repositories\\GeneralInformationRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T01:16:21.826Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "DateSelect.cs",
+              "DocumentMoniker": "C:\\Users\\Kevin Salomon\\Source\\repos\\MaxiTechnicalTestKS\\TechnicalTestKSApp_BE\\TechnicalTestKSApp_BE_BL\\Models\\DateSelect.cs",
+              "RelativeDocumentMoniker": "TechnicalTestKSApp_BE_BL\\Models\\DateSelect.cs",
+              "ToolTip": "C:\\Users\\Kevin Salomon\\Source\\repos\\MaxiTechnicalTestKS\\TechnicalTestKSApp_BE\\TechnicalTestKSApp_BE_BL\\Models\\DateSelect.cs",
+              "RelativeToolTip": "TechnicalTestKSApp_BE_BL\\Models\\DateSelect.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAkAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T02:49:58.131Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Beneficiary.cs",
+              "DocumentMoniker": "C:\\Users\\Kevin Salomon\\Source\\repos\\MaxiTechnicalTestKS\\TechnicalTestKSApp_BE\\TechnicalTestKSApp_BE_BL\\Models\\Beneficiary.cs",
+              "RelativeDocumentMoniker": "TechnicalTestKSApp_BE_BL\\Models\\Beneficiary.cs",
+              "ToolTip": "C:\\Users\\Kevin Salomon\\Source\\repos\\MaxiTechnicalTestKS\\TechnicalTestKSApp_BE\\TechnicalTestKSApp_BE_BL\\Models\\Beneficiary.cs",
+              "RelativeToolTip": "TechnicalTestKSApp_BE_BL\\Models\\Beneficiary.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwA0AAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T06:40:01.079Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Nationality.cs",
+              "DocumentMoniker": "C:\\Users\\Kevin Salomon\\Source\\repos\\MaxiTechnicalTestKS\\TechnicalTestKSApp_BE\\TechnicalTestKSApp_BE_BL\\Models\\Nationality.cs",
+              "RelativeDocumentMoniker": "TechnicalTestKSApp_BE_BL\\Models\\Nationality.cs",
+              "ToolTip": "C:\\Users\\Kevin Salomon\\Source\\repos\\MaxiTechnicalTestKS\\TechnicalTestKSApp_BE\\TechnicalTestKSApp_BE_BL\\Models\\Nationality.cs",
+              "RelativeToolTip": "TechnicalTestKSApp_BE_BL\\Models\\Nationality.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA8AAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T01:39:59.191Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "GeneralInformationController.cs",
+              "DocumentMoniker": "C:\\Users\\Kevin Salomon\\Source\\repos\\MaxiTechnicalTestKS\\TechnicalTestKSApp_BE\\TechnicalTestKSApp_BE\\Controllers\\GeneralInformationController.cs",
+              "RelativeDocumentMoniker": "TechnicalTestKSApp_BE\\Controllers\\GeneralInformationController.cs",
+              "ToolTip": "C:\\Users\\Kevin Salomon\\Source\\repos\\MaxiTechnicalTestKS\\TechnicalTestKSApp_BE\\TechnicalTestKSApp_BE\\Controllers\\GeneralInformationController.cs",
+              "RelativeToolTip": "TechnicalTestKSApp_BE\\Controllers\\GeneralInformationController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T02:54:07.094Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "IGeneralInformationBL.cs",
+              "DocumentMoniker": "C:\\Users\\Kevin Salomon\\Source\\repos\\MaxiTechnicalTestKS\\TechnicalTestKSApp_BE\\TechnicalTestKSApp_BE_BL\\Interfaces\\Logics\\IGeneralInformationBL.cs",
+              "RelativeDocumentMoniker": "TechnicalTestKSApp_BE_BL\\Interfaces\\Logics\\IGeneralInformationBL.cs",
+              "ToolTip": "C:\\Users\\Kevin Salomon\\Source\\repos\\MaxiTechnicalTestKS\\TechnicalTestKSApp_BE\\TechnicalTestKSApp_BE_BL\\Interfaces\\Logics\\IGeneralInformationBL.cs",
+              "RelativeToolTip": "TechnicalTestKSApp_BE_BL\\Interfaces\\Logics\\IGeneralInformationBL.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T02:54:52.761Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "GeneralInformationBL.cs",
+              "DocumentMoniker": "C:\\Users\\Kevin Salomon\\Source\\repos\\MaxiTechnicalTestKS\\TechnicalTestKSApp_BE\\TechnicalTestKSApp_BE_BL\\Logics\\GeneralInformationBL.cs",
+              "RelativeDocumentMoniker": "TechnicalTestKSApp_BE_BL\\Logics\\GeneralInformationBL.cs",
+              "ToolTip": "C:\\Users\\Kevin Salomon\\Source\\repos\\MaxiTechnicalTestKS\\TechnicalTestKSApp_BE\\TechnicalTestKSApp_BE_BL\\Logics\\GeneralInformationBL.cs",
+              "RelativeToolTip": "TechnicalTestKSApp_BE_BL\\Logics\\GeneralInformationBL.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAAABEAAABsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T01:12:55.534Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "IGeneralInformationRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Kevin Salomon\\Source\\repos\\MaxiTechnicalTestKS\\TechnicalTestKSApp_BE\\TechnicalTestKSApp_BE_BL\\Interfaces\\Repositories\\IGeneralInformationRepository.cs",
+              "RelativeDocumentMoniker": "TechnicalTestKSApp_BE_BL\\Interfaces\\Repositories\\IGeneralInformationRepository.cs",
+              "ToolTip": "C:\\Users\\Kevin Salomon\\Source\\repos\\MaxiTechnicalTestKS\\TechnicalTestKSApp_BE\\TechnicalTestKSApp_BE_BL\\Interfaces\\Repositories\\IGeneralInformationRepository.cs",
+              "RelativeToolTip": "TechnicalTestKSApp_BE_BL\\Interfaces\\Repositories\\IGeneralInformationRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAsAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T01:13:31.411Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "EmployeeBL.cs",
+              "DocumentMoniker": "C:\\Users\\Kevin Salomon\\Source\\repos\\MaxiTechnicalTestKS\\TechnicalTestKSApp_BE\\TechnicalTestKSApp_BE_BL\\Logics\\EmployeeBL.cs",
+              "RelativeDocumentMoniker": "TechnicalTestKSApp_BE_BL\\Logics\\EmployeeBL.cs",
+              "ToolTip": "C:\\Users\\Kevin Salomon\\Source\\repos\\MaxiTechnicalTestKS\\TechnicalTestKSApp_BE\\TechnicalTestKSApp_BE_BL\\Logics\\EmployeeBL.cs",
+              "RelativeToolTip": "TechnicalTestKSApp_BE_BL\\Logics\\EmployeeBL.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABQAAABVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T19:26:48.5Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "IBeneficiaryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Kevin Salomon\\Source\\repos\\MaxiTechnicalTestKS\\TechnicalTestKSApp_BE\\TechnicalTestKSApp_BE_BL\\Interfaces\\Repositories\\IBeneficiaryRepository.cs",
+              "RelativeDocumentMoniker": "TechnicalTestKSApp_BE_BL\\Interfaces\\Repositories\\IBeneficiaryRepository.cs",
+              "ToolTip": "C:\\Users\\Kevin Salomon\\Source\\repos\\MaxiTechnicalTestKS\\TechnicalTestKSApp_BE\\TechnicalTestKSApp_BE_BL\\Interfaces\\Repositories\\IBeneficiaryRepository.cs",
+              "RelativeToolTip": "TechnicalTestKSApp_BE_BL\\Interfaces\\Repositories\\IBeneficiaryRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T00:31:32.428Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "SqlContext.cs",
+              "DocumentMoniker": "C:\\Users\\Kevin Salomon\\Source\\repos\\MaxiTechnicalTestKS\\TechnicalTestKSApp_BE\\TechnicalTestKSApp_BE_DA\\SqlContext.cs",
+              "RelativeDocumentMoniker": "TechnicalTestKSApp_BE_DA\\SqlContext.cs",
+              "ToolTip": "C:\\Users\\Kevin Salomon\\Source\\repos\\MaxiTechnicalTestKS\\TechnicalTestKSApp_BE\\TechnicalTestKSApp_BE_DA\\SqlContext.cs",
+              "RelativeToolTip": "TechnicalTestKSApp_BE_DA\\SqlContext.cs",
+              "ViewState": "AQIAAC4AAAAAAAAAAAAEwDoAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T21:16:56.397Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Kevin Salomon\\Source\\repos\\MaxiTechnicalTestKS\\TechnicalTestKSApp_BE\\TechnicalTestKSApp_BE\\appsettings.json",
+              "RelativeDocumentMoniker": "TechnicalTestKSApp_BE\\appsettings.json",
+              "ToolTip": "C:\\Users\\Kevin Salomon\\Source\\repos\\MaxiTechnicalTestKS\\TechnicalTestKSApp_BE\\TechnicalTestKSApp_BE\\appsettings.json",
+              "RelativeToolTip": "TechnicalTestKSApp_BE\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-02T21:35:14.933Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "SpResult.cs",
+              "DocumentMoniker": "C:\\Users\\Kevin Salomon\\Source\\repos\\MaxiTechnicalTestKS\\TechnicalTestKSApp_BE\\TechnicalTestKSApp_BE_DA\\Models\\SpResult.cs",
+              "RelativeDocumentMoniker": "TechnicalTestKSApp_BE_DA\\Models\\SpResult.cs",
+              "ToolTip": "C:\\Users\\Kevin Salomon\\Source\\repos\\MaxiTechnicalTestKS\\TechnicalTestKSApp_BE\\TechnicalTestKSApp_BE_DA\\Models\\SpResult.cs",
+              "RelativeToolTip": "TechnicalTestKSApp_BE_DA\\Models\\SpResult.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T23:10:53.571Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "IPerson.cs",
+              "DocumentMoniker": "C:\\Users\\Kevin Salomon\\Source\\repos\\MaxiTechnicalTestKS\\TechnicalTestKSApp_BE\\TechnicalTestKSApp_BE_BL\\Interfaces\\IPerson.cs",
+              "RelativeDocumentMoniker": "TechnicalTestKSApp_BE_BL\\Interfaces\\IPerson.cs",
+              "ToolTip": "C:\\Users\\Kevin Salomon\\Source\\repos\\MaxiTechnicalTestKS\\TechnicalTestKSApp_BE\\TechnicalTestKSApp_BE_BL\\Interfaces\\IPerson.cs",
+              "RelativeToolTip": "TechnicalTestKSApp_BE_BL\\Interfaces\\IPerson.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T22:10:29.467Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

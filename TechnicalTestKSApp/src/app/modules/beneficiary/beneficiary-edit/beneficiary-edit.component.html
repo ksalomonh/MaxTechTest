@@ -1,0 +1,53 @@
+<div class="container">    
+    <div class="row">
+        <div class="col-12">
+            <h3>Edit beneficiary</h3>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-12">
+            <form class="row" #form="ngForm" (ngSubmit)="submit()">
+                <div class="col-auto">
+                    <label for="naome" class="visually-hidden">Name</label>
+                    <input type="text" class="form-control" id="name" placeholder="Name" name="name" [(ngModel)]="beneficiary.name">
+                </div>
+                <div class="col-auto">
+                    <label for="lastName" class="visually-hidden">Lastname</label>
+                    <input type="text" class="form-control" id="lastName" placeholder="Lastname" name="lastName" [(ngModel)]="beneficiary.lastName">
+                </div>
+                <div class="col-auto">
+                    <label for="birthDate" class="visually-hidden">Birthdate</label>
+                    <input type="text" class="form-control" id="birthDate" placeholder="Birthdate" name="birthDate" [(ngModel)]="beneficiary.birthDate">
+                </div>                
+                <div class="col-auto">
+                    <label for="curp" class="visually-hidden">Curp</label>
+                    <input type="text" class="form-control" id="curp" placeholder="Curp" name="curp" [(ngModel)]="beneficiary.curp">
+                </div>
+                <div class="col-auto">
+                    <label for="ssn" class="visually-hidden">SSN</label>
+                    <input type="text" class="form-control" id="ssn" placeholder="SSN" name="ssn" [(ngModel)]="beneficiary.ssn">
+                </div>
+                <div class="col-auto">
+                    <label for="phone" class="visually-hidden">Phone</label>
+                    <input type="text" class="form-control" id="phone" placeholder="Phone" name="phone" [(ngModel)]="beneficiary.phone">
+                </div>
+                <div class="col-auto">
+                    <label for="nationality" class="visually-hidden">Nationality</label>        
+                    <select class="form-select" id="nationality" placeholder="Nationality" name="nationalityId" [(ngModel)]="beneficiary.nationalityId">
+                        <option value="0">Select an option</option>
+                        <option *ngFor="let nationality of nationalityService.nationalities" [ngValue]="nationality.nationalityId">{{nationality.nationalityName}}</option>
+                    </select>
+                </div>
+                <div class="col-auto">
+                    <label for="beneficiaryNumber" class="visually-hidden">Percentage of participation</label>
+                    <input type="number" class="form-control" id="participationPercentage" placeholder="Percentage of participation" name="participationPercentage" [(ngModel)]="beneficiary.participationPercentage">
+                </div>
+                <div class="col-auto">
+                    <button type="button" class="btn btn-outline-secondary" (click)="cancel()">Cancel</button>
+                    <button type="submit" class="btn btn-primary">Edit</button>
+                    <button type="button" class="btn btn-danger" (click)="delete()">Delete</button>
+                </div>
+            </form>
+        </div>
+    </div>
+</div>

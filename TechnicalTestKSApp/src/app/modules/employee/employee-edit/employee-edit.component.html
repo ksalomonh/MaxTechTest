@@ -1,0 +1,76 @@
+<div class="container">    
+    <div class="row">
+        <div class="col-12">
+            <h3>Edit Employee</h3>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-12">
+            <form #form="ngForm" (ngSubmit)="submit()">
+                <div class="row">
+                    <div class="col-3 mb-3">
+                        <label for="name" class="form-label">Name</label>
+                        <input type="text" class="form-control" id="name" placeholder="Name" name="name" [(ngModel)]="employee.name">
+                    </div>
+                    <div class="col-3 mb-3">
+                        <label for="lastName" class="form-label">Lastname</label>
+                        <input type="text" class="form-control" id="lastName" placeholder="Lastname" name="lastName" [(ngModel)]="employee.lastName">
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-2 mb-3">
+                        <label for="year" class="form-label">Year</label>
+                        <select class="form-select" id="year" placeholder="Year" name="year" [(ngModel)]="birhtDate.year">
+                            <option *ngFor="let year of dateSelectService.dateSelect.years" [ngValue]="year">{{year}}</option>
+                        </select>
+                    </div>
+                    <div class="col-1 mb-3">
+                        <label for="month" class="form-label">Month</label>
+                        <select class="form-select" id="month" placeholder="Month" name="month" [(ngModel)]="birhtDate.month">
+                            <option *ngFor="let month of dateSelectService.dateSelect.months" [ngValue]="month">{{month}}</option>
+                        </select>
+                    </div>
+                    <div class="col-1 mb-3">
+                        <label for="day" class="form-label">Day</label>
+                        <select class="form-select" id="day" placeholder="Day" name="day" [(ngModel)]="birhtDate.day">
+                            <option *ngFor="let day of dateSelectService.dateSelect.days" [ngValue]="day">{{day}}</option>
+                        </select>
+                    </div>
+                    <div class="col-2 mb-3">
+                        <label for="nationality" class="form-label">Nationality</label>        
+                        <select class="form-select" id="nationality" placeholder="Nationality" name="nationalityId" [(ngModel)]="employee.nationalityId">
+                            <option value="0">Select an option</option>
+                            <option *ngFor="let nationality of nationalityService.nationalities" [ngValue]="nationality.nationalityId">{{nationality.nationalityName}}</option>
+                        </select>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-3 mb-3">
+                        <label for="curp" class="form-label">Curp</label>
+                        <input type="text" class="form-control" id="curp" placeholder="Curp" name="curp" [(ngModel)]="employee.curp">
+                    </div>
+                    <div class="col-3 mb-3">
+                        <label for="ssn" class="form-label">SSN</label>
+                        <input type="text" class="form-control" id="ssn" placeholder="SSN" name="ssn" [(ngModel)]="employee.ssn">
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-3 mb-3">
+                        <label for="phone" class="form-label">Phone</label>
+                        <input type="text" class="form-control" id="phone" placeholder="Phone" name="phone" [(ngModel)]="employee.phone">
+                    </div>
+                    <div class="col-3 mb-3">
+                        <label for="employeeNumber" class="form-label">Employee Number</label>
+                        <input type="text" class="form-control" id="employeeNumber" placeholder="Employee Number" name="employeeNumber" [(ngModel)]="employee.employeeNumber">
+                    </div>
+                </div>
+                <div class="row">
+                    <button type="button" class=" col-1 btn btn-danger" (click)="delete()">Delete</button>
+                    <button type="button" class="col-1 me-1 btn btn-outline-secondary" (click)="cancel()">Cancel</button>
+                    <button type="submit" class="col-1 ms-1 btn btn-primary">Edit</button>
+                </div>
+            </form>
+        </div>
+    </div>
+</div>
+

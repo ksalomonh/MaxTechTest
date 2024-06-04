@@ -1,0 +1,39 @@
+<table class="table">
+    <thead>
+      <tr>
+        <th scope="col">#</th>
+        <th scope="col">Name</th>
+        <th scope="col">Lastname</th>
+        <th scope="col">BirthDate</th>
+        <th scope="col">Curp</th>
+        <th scope="col">SSN</th>
+        <th scope="col">Phone</th>
+        <th scope="col">Nationality</th>
+        <th scope="col">Beneficiaries</th>
+        <th scope="col"></th>
+      </tr>
+    </thead>
+    <tbody class="table-group-divider" *ngIf="employees && employees.length > 0">
+      <tr *ngFor="let employee of employees">
+        <th scope="row">{{employee.employeeNumber}}</th>
+        <td>{{employee.name}}</td>
+        <td>{{employee.lastName}}</td>
+        <td>{{employee.birthDate}}</td>
+        <td>{{employee.curp}}</td>
+        <td>{{employee.ssn}}</td>
+        <td>{{employee.phone}}</td>
+        <td>{{employee.nationalityName}}</td>
+        <td>
+            <a class="btn btn-link" [routerLink]="['beneficiaries', employee.employeeId]">{{employee.beneficiariesCount}}</a>
+        </td>
+        <td>
+            <a class="btn btn-link" [routerLink]="['edit', employee.employeeId]">Go to details</a>
+        </td>
+      </tr>
+    </tbody>
+    <tbody  *ngIf="!employees || employees.length === 0">
+        <tr class="Text-Center">
+            <td colspan="10">Employees not found.</td>
+        </tr>
+    </tbody>
+  </table>

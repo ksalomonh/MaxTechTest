@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\TechnicalTestKSApp_BE.props" />
+</Project>
