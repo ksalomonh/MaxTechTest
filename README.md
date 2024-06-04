@@ -30,11 +30,8 @@ Application running.
 2. Add new employee: Click on +Employee button on the top-right screen.
 3. Edit employee: Find employee from the list and click on Go to details button in table. Edit the fields and click on Edit button.
 4. Delete employee: Find employee from the list and click on Go to details button in table. click on Delete button.
-5. See beneficiaries:
-       Find Beneficiaries column of Employee list and click on beneficiary number.
-       Add beneficiary: Click on Go to benefiiaries details button on the top-right screen. Fill the fields and click on Add button.
-       Edit beneficiary: Click on Go to benefiiaries details button on the top-right screen. Find beneficiary to edit and click on edit button, notice the field on rigth side are automaticlly filled. Edit the fields and click on Edit button on the buttom of the form.
-       Delete beneficiary: Click on Go to benefiiaries details button on the top-right screen. Find beneficiary to delete and click on delete button.
-   ***IMPORTANT***
-       Every add, edit or delete beneficiary action will be applied once click on Apply changes button at the middle of the screen.
-   ***IMPORTANT*** 
+5. See beneficiaries: Find Beneficiaries column of Employee list and click on beneficiary number.
+6. Add beneficiary: Click on Go to benefiiaries details button on the top-right screen. Fill the fields and click on Add button.
+7. Edit beneficiary: Click on Go to benefiiaries details button on the top-right screen. Find beneficiary to edit and click on edit button, notice the field on rigth side are automaticlly filled. Edit the fields and click on Edit button on the buttom of the form.
+8. Delete beneficiary: Click on Go to benefiiaries details button on the top-right screen. Find beneficiary to delete and click on delete button.
+9. ***IMPORTANT*** Every add, edit or delete beneficiary action will be applied once click on Apply changes button at the middle of the screen. ***IMPORTANT*** 
